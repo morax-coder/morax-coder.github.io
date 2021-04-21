@@ -5,7 +5,8 @@ body {
     margin:40px auto;
     transition-duration:1s;
     text-align: center; 
-    font-family: Montserrat; 
+    font-family: Montserrat;
+    color:#f3f3f3; 
     background-color: #0c0d11; 
 }
 div#login {
