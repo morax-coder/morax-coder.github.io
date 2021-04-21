@@ -68,6 +68,14 @@ div#socialMedias {
     text-align: center;
     margin: 40px;
 }
+div#socialMedias a{
+    font-size: small;
+    color: #f3f3f3;
+    text-decoration: none;
+    position:relative; 
+    bottom: 5px; 
+    margin: 5px;
+}
 footer > div > hr {
     margin: 20px auto;
 }
