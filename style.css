@@ -6,11 +6,13 @@ body {
     transition-duration:1s;
     text-align: center; 
     font-family: Arial, Helvetica, sans-serif; 
-    color: rgb(69,69,69);
     background-color: #0c0d11; 
 }
 div#login {
     margin-top: 150px;
+}
+div#login > header {
+    color: rgb(255, 96, 136);
 }
 #email-input, #password-input {
     outline: none;
