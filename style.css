@@ -13,6 +13,7 @@ div#login {
     margin-top: 150px;
 }
 div#login > header {
+    transition-duration: 13s;
     color: rgb(255, 96, 136);
 }
 div#login > form > h3 {
