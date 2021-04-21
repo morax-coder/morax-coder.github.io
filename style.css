@@ -15,6 +15,9 @@ div#login {
 div#login > header {
     color: rgb(255, 96, 136);
 }
+div#login > form > h3 {
+    font-weight: normal;
+}
 #email-input, #password-input {
     outline: none;
     width: 200px;
