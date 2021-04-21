@@ -64,6 +64,10 @@ footer > div {
     font-family: Montserrat;
 
 }
+div#socialMedias {
+    text-align: center;
+    margin: 40px;
+}
 footer > div > hr {
     margin: 20px auto;
 }
