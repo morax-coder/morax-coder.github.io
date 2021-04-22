@@ -12,9 +12,15 @@ body {
 div#login {
     margin-top: 150px;
 }
-div#login > header {
+div#login > form {
     transition-duration: 13s;
     color: rgb(255, 96, 136);
+}
+div#login > form > h3, div#downbelowT {
+    color: #f3f3f3; 
+}
+div#login > form > div {
+    margin-bottom: 100px;
 }
 div#login > form > h3 {
     font-weight: normal;
