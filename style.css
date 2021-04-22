@@ -12,6 +12,9 @@ body {
 div#headerTop {
     text-align:left;
 }
+div#headerTop a {
+    text-decoration: none;
+}
 div#login {
     margin-top: 150px;
 }
