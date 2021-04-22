@@ -9,6 +9,9 @@ body {
     color:#f3f3f3; 
     background-color: #0c0d11; 
 }
+div#headerTop {
+    text-align:left;
+}
 div#login {
     margin-top: 150px;
 }
@@ -20,7 +23,7 @@ div#login > form > h3, div#downbelowT {
     color: #f3f3f3; 
 }
 div#login > form > div {
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 div#login > form > h3 {
     font-weight: normal;
