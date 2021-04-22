@@ -12,6 +12,8 @@ body {
 }
 header {
     height:100px;
+    position: fixed;
+    top:0px;
 
 }
 div#headerTop {
@@ -111,8 +113,11 @@ footer > div > hr {
         width:93%;
         padding:0px 0px 40px 0px;
     }
-    div#login, header {
+    header {
         margin-top: 10px;
+    }
+    div#login {
+        margin:100px;
     }
     div#headerTop {
         top: 5px;
