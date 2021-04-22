@@ -103,14 +103,15 @@ footer > div > hr {
 
 @media (max-width:600px){
     div#termsContainer {
-        width: 90%;
+        width: 95%;
         margin:10px 0px 0px 0px auto;
         padding: 10px;
     }
     body {
-        width:95%;
+        width:93%;
+        padding:0px 0px 40px 0px;
     }
-    div#login {
+    div#login, header {
         margin-top: 70px;
     }   
 }
