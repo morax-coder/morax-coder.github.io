@@ -10,7 +10,14 @@ body {
     color:#f3f3f3; 
     background-color: #0c0d11; 
 }
+header {
+    background-color:lightskyblue;
+    height:100px;
+
+}
 div#headerTop {
+    position:relative;
+    top:40px;
     text-align:left;
 }
 div#headerTop a {
